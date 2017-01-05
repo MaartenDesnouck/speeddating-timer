@@ -1,4 +1,4 @@
-# Speeddate Timer
+# Speeddating Timer
 
 [Link](https://mdsnouck.github.io/speeddating-timer)
 
