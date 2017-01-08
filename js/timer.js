@@ -1,20 +1,4 @@
-//-------------
-//- PIE CHART -
-//-------------
-// Get context with jQuery - using jQuery's .get() method.
 var ctx = $("#pieChart").get(0).getContext("2d");
-var data = [{
-    value: 1,
-    color: "#008700",
-    highlight: "#008700",
-    label: "Full"
-}, {
-    value: 0,
-    color: "#303030",
-    highlight: "#303030",
-    label: "Empty"
-}];
-
 var options = {
     //Boolean - Whether we should show a stroke on each segment
     segmentShowStroke: true,
@@ -37,10 +21,6 @@ var options = {
     //Boolean - whether to maintain the starting aspect ratio or not when responsive, if set to false, will take up entire container
     maintainAspectRatio: true,
 };
-
-//Create pie or douhnut chart
-//You can switch between pie and doughnut using the method below.
-window.myPieChart = new Chart(ctx).Doughnut(data, options);
 
 //Constants
 var switchSeconds = 10;
