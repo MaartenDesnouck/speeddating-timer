@@ -23,7 +23,7 @@ var options = {
 };
 
 //Constants
-var switchSeconds = 10;
+var switchSeconds = 25;
 var greenSeconds = 230;
 var orangeSeconds = 30;
 var redSeconds = 30;
