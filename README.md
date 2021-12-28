@@ -1,6 +1,6 @@
 # Speeddating Timer
 
-## Use the timer [here](https://MaartenDesnouck.github.io/speeddating-timer).
+## Use the timer [here](https://speeddating.desnouck.com).
 
 I need to mention that I used the excellent [Grayscale template](https://github.com/BlackrockDigital/startbootstrap-grayscale) for this app.
 
